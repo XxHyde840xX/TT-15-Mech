@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+	<name>TT-15 - Scorpion Mechanoid - Translation</name>
+	<author>XxHyde840xX</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>840.t.tt15</packageId>
+	<modDependencies>
+	</modDependencies>
+	<loadAfter>
+		<li>TW.TT15</li>
+	</loadAfter>
+	<description>Chinese to English translation of @堂丸's "TT-15 Scorpion" Mechanoid. I apologize for any mistranslations as I do not speak Chinese. 
+		
+If the original author wishes at any time for me to remove this from the workshop, I will comply with their request to do so.
+
+=================================
+	
+TRANSLATION OF ORIGINAL MOD PAGE:
+	
+Introduction:
+  
+*This mod is someone else's order/commission.*
+The mobile mouse-catching robot sold by Tiandun, a world-renowned artificial intelligence firm, is one of the most advanced pieces of equipment in the field of artificial intelligence.
+
+/// Warning: Please do not use this product in the colony area with rat-mothers, it may lead to a very low probability of accidental injury. ///
+
+—————————————————————————————
+renew:
+2023/04/23 mod released.
+—————————————————————————————
+If you like it and have the ability to support it, you can go to Aifafa Sotangwan and buy me a bottle of Coke
+Welcome to join the blowing water QQ group: 946658839
+—————————————————————————————
+
+=================================
+
+KNOWN ISSUES:
+
+- NONE!
+
+=================================
+
+If there are any other issues, please don't hesitate to let me know.
+
+o7 - XxHyde840xX
+
+=================================</description>
+
+</ModMetaData>
